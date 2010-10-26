@@ -1,0 +1,477 @@
+
+
+Processing ActionController::Base#index (for 127.0.0.1 at 2010-10-25 17:40:34) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  -e:2:in `load'
+  -e:2
+
+Rendering rescues/layout (not_found)
+
+
+Processing ActionController::Base#index (for 127.0.0.1 at 2010-10-25 17:45:21) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  -e:2:in `load'
+  -e:2
+
+Rendering rescues/layout (not_found)
+
+
+Processing ActionController::Base#index (for 127.0.0.1 at 2010-10-25 17:46:55) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  -e:2:in `load'
+  -e:2
+
+Rendering rescues/layout (not_found)
+
+
+Processing ActionController::Base#index (for 127.0.0.1 at 2010-10-25 17:48:00) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  -e:2:in `load'
+  -e:2
+
+Rendering rescues/layout (not_found)
+
+
+Processing ActionController::Base#index (for 127.0.0.1 at 2010-10-25 17:48:48) [GET]
+
+SyntaxError (/home/bubby/Aptana RadRails Workspace/searchTest/app/controllers/search_controller.rb:8: syntax error, unexpected kEND, expecting $end):
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  -e:2:in `load'
+  -e:2
+
+Rendered rescues/_trace (17.2ms)
+Rendered rescues/_request_and_response (1.1ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ActionController::Base#index (for 127.0.0.1 at 2010-10-25 17:51:42) [GET]
+
+NameError (uninitialized constant ApplicationController):
+  app/controllers/search_controller.rb:1
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  -e:2:in `load'
+  -e:2
+
+Rendered rescues/_trace (32.9ms)
+Rendered rescues/_request_and_response (0.9ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ActionController::Base#index (for 127.0.0.1 at 2010-10-25 18:13:11) [GET]
+
+NameError (uninitialized constant ApplicationController):
+  app/controllers/search_controller.rb:1
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  -e:2:in `load'
+  -e:2
+
+Rendered rescues/_trace (26.0ms)
+Rendered rescues/_request_and_response (1.6ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-25 19:32:05) [GET]
+Rendering search/index
+Completed in 28ms (View: 27 | 200 OK [http://0.0.0.0/]
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-25 19:34:29) [GET]
+Rendering search/index
+Completed in 153ms (View: 149 | 200 OK [http://0.0.0.0/]
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-25 19:34:56) [GET]
+Rendering search/index
+Completed in 4ms (View: 3 | 200 OK [http://0.0.0.0/]
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-25 19:35:02) [POST]
+  Parameters: {"commit"=>"Save changes", "SearchInput"=>"noopura", "authenticity_token"=>"cCXHSznyR3gJTogKlOS2gahxqp8qwibeUPHD63M0ct4="}
+Rendering search/index
+Completed in 4ms (View: 2 | 200 OK [http://0.0.0.0/]
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-25 19:37:45) [GET]
+Redirected to http://0.0.0.0:3003/search/display
+Completed in 1ms | 302 Found [http://0.0.0.0/]
+
+
+Processing SearchController#display (for 127.0.0.1 at 2010-10-25 19:37:45) [GET]
+
+ActionView::MissingTemplate (Missing template search/display.erb in view path app/views):
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  -e:2:in `load'
+  -e:2
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-25 19:38:23) [GET]
+Redirected to http://0.0.0.0:3003/search/result
+Completed in 1ms | 302 Found [http://0.0.0.0/]
+
+
+Processing SearchController#result (for 127.0.0.1 at 2010-10-25 19:38:23) [GET]
+Rendering search/result
+Completed in 7ms (View: 5 | 200 OK [http://0.0.0.0/search/result]
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-25 19:39:19) [GET]
+Redirected to http://0.0.0.0:3003/search/result
+Completed in 32ms | 302 Found [http://0.0.0.0/]
+
+
+Processing SearchController#result (for 127.0.0.1 at 2010-10-25 19:39:19) [GET]
+Rendering search/result
+Completed in 10ms (View: 4 | 200 OK [http://0.0.0.0/search/result]
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-25 19:39:45) [GET]
+Redirected to http://0.0.0.0:3003/search/result
+Completed in 1ms | 302 Found [http://0.0.0.0/]
+
+
+Processing SearchController#result (for 127.0.0.1 at 2010-10-25 19:39:46) [GET]
+Rendering search/result
+Completed in 3ms (View: 1 | 200 OK [http://0.0.0.0/search/result]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-10-25 19:40:16) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  -e:2:in `load'
+  -e:2
+
+Rendering rescues/layout (not_found)
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-25 19:40:57) [GET]
+Rendering search/index
+Completed in 7ms (View: 6 | 200 OK [http://0.0.0.0/]
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-25 19:41:53) [GET]
+Rendering search/index
+Completed in 8ms (View: 6 | 200 OK [http://0.0.0.0/]
+
+
+Processing SearchController#create (for 127.0.0.1 at 2010-10-25 19:41:59) [POST]
+  Parameters: {"commit"=>"Save changes", "SearchInput"=>"noopura", "authenticity_token"=>"cCXHSznyR3gJTogKlOS2gahxqp8qwibeUPHD63M0ct4="}
+
+ActionView::MissingTemplate (Missing template search/create.erb in view path app/views):
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  -e:2:in `load'
+  -e:2
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-25 19:43:02) [GET]
+Rendering search/index
+Completed in 6ms (View: 4 | 200 OK [http://0.0.0.0/]
+
+
+Processing SearchController#result (for 127.0.0.1 at 2010-10-25 19:43:07) [POST]
+  Parameters: {"commit"=>"Save changes", "SearchInput"=>"noopura", "authenticity_token"=>"cCXHSznyR3gJTogKlOS2gahxqp8qwibeUPHD63M0ct4="}
+Rendering search/result
+Completed in 2ms (View: 1 | 200 OK [http://0.0.0.0/search/result]
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-25 20:14:50) [GET]
+Rendering search/index
+Completed in 3ms (View: 2 | 200 OK [http://0.0.0.0/]
+
+
+Processing SearchController#result (for 127.0.0.1 at 2010-10-25 20:15:04) [POST]
+  Parameters: {"commit"=>"Save changes", "SearchInput"=>"harsha", "authenticity_token"=>"cCXHSznyR3gJTogKlOS2gahxqp8qwibeUPHD63M0ct4="}
+Rendering search/result
+Completed in 3ms (View: 1 | 200 OK [http://0.0.0.0/search/result]
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-25 20:20:24) [GET]
+Rendering search/index
+Completed in 4ms (View: 3 | 200 OK [http://0.0.0.0/]
+
+
+Processing SearchController#result (for 127.0.0.1 at 2010-10-25 20:20:26) [POST]
+  Parameters: {"commit"=>"Save changes", "SearchInput"=>"", "authenticity_token"=>"cCXHSznyR3gJTogKlOS2gahxqp8qwibeUPHD63M0ct4="}
+Rendering search/result
+Completed in 1665ms (View: 1 | 200 OK [http://0.0.0.0/search/result]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-10-25 23:51:07) [GET]
+
+SyntaxError (/home/bubby/Aptana RadRails Workspace/searchTest/app/controllers/search_controller.rb:14: syntax error, unexpected $end, expecting kEND):
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  -e:2:in `load'
+  -e:2
+
+Rendered rescues/_trace (53.2ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-25 23:51:30) [GET]
+Rendering search/index
+Completed in 3ms (View: 2 | 200 OK [http://0.0.0.0/]
+
+
+Processing SearchController#result (for 127.0.0.1 at 2010-10-25 23:51:35) [POST]
+  Parameters: {"commit"=>"Save changes", "SearchInput"=>"obama", "authenticity_token"=>"cCXHSznyR3gJTogKlOS2gahxqp8qwibeUPHD63M0ct4="}
+Rendering search/result
+Completed in 1105ms (View: 1 | 200 OK [http://0.0.0.0/search/result]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-10-25 23:55:52) [GET]
+
+SyntaxError (/home/bubby/Aptana RadRails Workspace/searchTest/app/controllers/search_controller.rb:13: syntax error, unexpected kEND, expecting $end):
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  -e:2:in `load'
+  -e:2
+
+Rendered rescues/_trace (17.8ms)
+Rendered rescues/_request_and_response (0.8ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-25 23:56:17) [GET]
+Rendering search/index
+Completed in 5ms (View: 3 | 200 OK [http://0.0.0.0/]
+
+
+Processing SearchController#result (for 127.0.0.1 at 2010-10-25 23:56:22) [POST]
+  Parameters: {"commit"=>"Save changes", "SearchInput"=>"obama", "authenticity_token"=>"cCXHSznyR3gJTogKlOS2gahxqp8qwibeUPHD63M0ct4="}
+Rendering search/result
+Completed in 1161ms (View: 1159 | 200 OK [http://0.0.0.0/search/result]
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-25 23:58:48) [GET]
+Rendering search/index
+Completed in 3ms (View: 2 | 200 OK [http://0.0.0.0/]
+
+
+Processing SearchController#result (for 127.0.0.1 at 2010-10-25 23:58:53) [POST]
+  Parameters: {"commit"=>"Save changes", "SearchInput"=>"obama", "authenticity_token"=>"cCXHSznyR3gJTogKlOS2gahxqp8qwibeUPHD63M0ct4="}
+Rendering search/result
+Completed in 1135ms (View: 1134 | 200 OK [http://0.0.0.0/search/result]
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-26 00:47:24) [GET]
+Rendering search/index
+Completed in 4ms (View: 2 | 200 OK [http://0.0.0.0/]
+
+
+Processing SearchController#result (for 127.0.0.1 at 2010-10-26 00:47:29) [POST]
+  Parameters: {"commit"=>"Save changes", "SearchInput"=>"obama", "authenticity_token"=>"cCXHSznyR3gJTogKlOS2gahxqp8qwibeUPHD63M0ct4="}
+
+ArgumentError (wrong number of arguments (1 for 0)):
+  app/controllers/search_controller.rb:8:in `query'
+  app/controllers/search_controller.rb:8:in `result'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+  -e:2:in `load'
+  -e:2
+
+Rendered rescues/_trace (16.4ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-26 01:02:15) [GET]
+Rendering search/index
+Completed in 3ms (View: 2 | 200 OK [http://0.0.0.0/]
+
+
+Processing SearchController#result (for 127.0.0.1 at 2010-10-26 01:02:25) [POST]
+  Parameters: {"commit"=>"Save changes", "SearchInput"=>"micheal jackson", "authenticity_token"=>"cCXHSznyR3gJTogKlOS2gahxqp8qwibeUPHD63M0ct4="}
+Rendering search/result
+Completed in 1171ms (View: 1169 | 200 OK [http://0.0.0.0/search/result]
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-26 01:18:18) [GET]
+Rendering template within layouts/search
+Rendering search/index
+
+ActionView::TemplateError (Missing template search/_index.erb in view path app/views) on line #23 of app/views/layouts/search.html.erb:
+20: 	<%= content_tag(:div, flash[:error], :class => 'flasherror') if flash[:error] %>
+21: </div>
+22: 
+23: <%= render :partial => "search/index", :locals => {  } -%>
+24: 
+25: <%= yield  %>
+26: 
+
+    app/views/layouts/search.html.erb:23
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    -e:2:in `load'
+    -e:2
+
+Rendered rescues/_trace (21.5ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-26 01:21:45) [GET]
+Rendering template within layouts/search
+Rendering search/index
+Completed in 19ms (View: 18 | 200 OK [http://0.0.0.0/]
+
+
+Processing SearchController#result (for 127.0.0.1 at 2010-10-26 01:21:57) [POST]
+  Parameters: {"commit"=>"Save changes", "SearchInput"=>"micheal jackson", "authenticity_token"=>"cCXHSznyR3gJTogKlOS2gahxqp8qwibeUPHD63M0ct4="}
+Rendering template within layouts/search
+Rendering search/result
+Completed in 1731ms (View: 1730 | 200 OK [http://0.0.0.0/search/result]
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-26 16:10:51) [GET]
+Rendering template within layouts/search
+Rendering search/index
+Completed in 74ms (View: 70 | 200 OK [http://0.0.0.0/]
+
+
+Processing SearchController#result (for 127.0.0.1 at 2010-10-26 16:11:00) [POST]
+  Parameters: {"commit"=>"Save changes", "SearchInput"=>"micheal jackson", "authenticity_token"=>"joTEgUnesUslHtGcTCpxUGwf4AJh6ppm1taj0PJOqSY="}
+Rendering template within layouts/search
+Rendering search/result
+Completed in 1207ms (View: 1205 | 200 OK [http://0.0.0.0/search/result]
+
+
+Processing SearchController#index (for 127.0.0.1 at 2010-10-26 17:09:18) [GET]
+Rendering template within layouts/search
+Rendering search/index
+Completed in 7ms (View: 6 | 200 OK [http://0.0.0.0/]

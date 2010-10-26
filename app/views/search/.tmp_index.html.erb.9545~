@@ -1,0 +1,14 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<title>Untitled Document</title>
+	</head>
+	<body>
+		<% form_tag(:action => 'result') do %>
+  <%= text_field_tag "SearchInput" %>
+  <%= submit_tag %>
+<% end %>
+
+	</body>
+</html>
